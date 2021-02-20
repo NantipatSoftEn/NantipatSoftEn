@@ -32,3 +32,10 @@
 [![NantipatSoftEnStat](https://github-readme-stats.vercel.app/api?username=NantipatSoftEn&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/NantipatSoftEn/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NantipatSoftEn&theme=react&layout=compact&hide=css,html&langs_count=8)](https://github.com/NantipatSoftEn/github-readme-stats)
+
+
+**Languages:**  
+
+<code><img style="display:inline" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img style="display:inline" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img style="display:inline" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code
