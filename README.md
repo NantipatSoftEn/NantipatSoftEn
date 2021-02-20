@@ -45,6 +45,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-[![GitHub MianJawadAhmad](https://img.shields.io/github/followers/MianJawadAhmad?label=follow&style=social)](https://github.com/MianJawadAhmad)
-<p><a href="https://encoderbytes.com">🌐 Check out my website</a></p>
 
