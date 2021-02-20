@@ -30,3 +30,5 @@
 
 
 [![NantipatSoftEnStat](https://github-readme-stats.vercel.app/api?username=NantipatSoftEn&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/NantipatSoftEn/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NantipatSoftEn&theme=react&layout=compact&hide=css,html&langs_count=8)](https://github.com/NantipatSoftEn/github-readme-stats)
