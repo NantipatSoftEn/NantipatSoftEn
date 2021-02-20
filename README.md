@@ -27,3 +27,6 @@
 
 
 ![](https://github.com/NantipatSoftEn/NantipatSoftEn/blob/main/15b12486a0f28fa1a094d8ff82ed8715.gif)
+
+
+[![NantipatSoftEnStat](https://github-readme-stats.vercel.app/api?username=NantipatSoftEn&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/NantipatSoftEn/github-readme-stats)
